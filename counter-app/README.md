@@ -12,6 +12,6 @@ Hooks cannot be conditional</p>
 State generally refers to data or properties that need to be tracking in an application.</p></li>
 1. Import usestate
 2. Initialize useState
-3. 
+3. use them anywhere
 
 </ul>
